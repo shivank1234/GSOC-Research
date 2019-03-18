@@ -14,3 +14,5 @@ Useful Links:
 https://www.jetbrains.com/help/idea/2016.3/plugin-development-guidelines.html
 
 https://atom.io/packages/coala
+
+https://github.blog/2016-08-19-building-your-first-atom-plugin/
