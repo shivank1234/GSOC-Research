@@ -12,3 +12,5 @@ https://github.com/coala/coala/issues/2019
 Useful Links:
 
 https://www.jetbrains.com/help/idea/2016.3/plugin-development-guidelines.html
+
+https://atom.io/packages/coala
