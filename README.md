@@ -20,3 +20,5 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
 
 https://media.readthedocs.org/pdf/coala-api/latest/coala-api.pdf (Coala-json part(Chapter 15))
+
+https://www.jetbrains.org/intellij/sdk/docs/user_interface_components/user_interface_components.html
