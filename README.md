@@ -22,3 +22,5 @@ http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compati
 https://media.readthedocs.org/pdf/coala-api/latest/coala-api.pdf (Coala-json part(Chapter 15))
 
 https://www.jetbrains.org/intellij/sdk/docs/user_interface_components/user_interface_components.html
+
+https://github.com/coala/coala-bears/issues/154
